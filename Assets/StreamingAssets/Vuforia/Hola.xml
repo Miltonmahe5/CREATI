@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="insular" size="0.100000 0.103387" />
+    <ImageTarget name="pacifico" size="0.100000 0.096862" />
+    <ImageTarget name="Amazonas" size="0.100000 0.099282" />
+    <ImageTarget name="caribe" size="0.100000 0.096712" />
+    <ImageTarget name="leal" size="0.100000 0.148821" />
+    <ImageTarget name="centrico" size="0.100000 0.122222" />
+    <ImageTarget name="royal" size="0.100000 0.060272" />
+  </Tracking>
+</QCARConfig>
