@@ -17,16 +17,20 @@ schools. Keeping this in mind, we decided to start
 investing personal time on this project, and now it
 has become a reliable tool for the company.
 
-* **01**  Minga of mythological characters <br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim1.png" height="128" width="225"><image/>
-* **02**  First mision is opened by AR region card.<br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim2.png" height="128" width="225"><image/>
+## How it works ⚙️
+
+* **01**  A friendly tutorial starts with a primary mission. Discover the content hidden inside the card two. <br>
+<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea1.png" height="128" width="225"><image/>
+* **02**  The app identifies the cards or cube face seen by the camera. To interact, you must press over the screen where the target is located.<br>
+<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea2.png" height="128" width="225"><image/>
 * **03**  Musical challenge with traditional gastronomic content close to guitar hero.<br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim3.png" height="128" width="225" ><image/>
-* **04**  A mission overcome unblocks a badge activated by AR.<br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim4.png" height="128" width="225"><image/>
-* **05**  The badge recover complete the AR region card.<br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim5.png" height="128" width="225"><image/>
+<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea3.png"height="128" width="225" ><image/>
+* **04**  As videogames, touchscreen joysticks create an interaction friendly for kids <br>
+<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea4.png" height="128" width="225"><image/>
+* **05**  This file searching function allows the user to explore file-by-file all the content they want to upload.<br>
+<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea5.png" height="128" width="225"><image/>
+  * **06**  3d models, images, and videos can create amazing compositions merging digital content in the real world.<br>
+<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea6.png" height="128" width="225"><image/>
 
 
 If the challenge is overcome, the player wins a physical badge associated with an animal of the  region. This prize unlocks hidden content in AR of
