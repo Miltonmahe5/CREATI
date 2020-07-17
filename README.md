@@ -20,21 +20,19 @@ has become a reliable tool for the company.
 ## How it works ⚙️
 
 * **01**  A friendly tutorial starts with a primary mission. Discover the content hidden inside the card two. <br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea1.png" height="128" width="225"><image/>
+<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea1.png" height="256" width="455"><image/>
 * **02**  The app identifies the cards or cube face seen by the camera. To interact, you must press over the screen where the target is located.<br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea2.png" height="128" width="225"><image/>
+<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea2.png" height="256" width="455"><image/>
 * **03**  Musical challenge with traditional gastronomic content close to guitar hero.<br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea3.png"height="128" width="225" ><image/>
+<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea3.png" height="256" width="455" ><image/>
 * **04**  As videogames, touchscreen joysticks create an interaction friendly for kids <br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea4.png" height="128" width="225"><image/>
+<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea4.png" height="256" width="455"><image/>
 * **05**  This file searching function allows the user to explore file-by-file all the content they want to upload.<br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea5.png" height="128" width="225"><image/>
-  * **06**  3d models, images, and videos can create amazing compositions merging digital content in the real world.<br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea6.png" height="128" width="225"><image/>
+<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea5.png" height="256" width="455"><image/>
+* **06**  3d models, images, and videos can create amazing compositions merging digital content in the real world.<br>
+<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea6.png" height="256" width="455"><image/>
 
 
-If the challenge is overcome, the player wins a physical badge associated with an animal of the  region. This prize unlocks hidden content in AR of
-the region that you recovered from oblivion.
 
 ## Build in 🛠️
 * Unity 2019  -VideoGame editor
