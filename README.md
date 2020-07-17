@@ -46,5 +46,5 @@ has become a reliable tool for the company.
 * Critertec S.A.S* 
 * UX/UI design: Milton Mahecha, Dave Nieves and Victor Mahecha
 * Sound: Dave Nieves.
-* Character: valentina Diaz
-* Programmer : Milton Mahecha and Victor Mahecha.
+* Character: Valentina Diaz
+* Programmer : Juan Poveda, Milton Mahecha and Victor Mahecha.
