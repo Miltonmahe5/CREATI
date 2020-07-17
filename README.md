@@ -33,15 +33,16 @@ If the challenge is overcome, the player wins a physical badge associated with a
 the region that you recovered from oblivion.
 
 ## Build in 🛠️
-* Unity 2019  - VideoGame editor
-* UI - Illustrator Photoshop
-* MagicaVoxel - 3d Characters modeling
+* Unity 2019  -VideoGame editor
+* UI - Ilustrator and Photoshop
+* Z-Brush  -3d character
+
 
 
 
 ## Created by ✒️
 * Critertec S.A.S* 
 * UX/UI design: Milton Mahecha, Dave Nieves and Victor Mahecha
-* UI Animations: Dave Nieves
 * Sound: Dave Nieves.
+* Character: valentina Diaz
 * Programmer : Milton Mahecha and Victor Mahecha.
