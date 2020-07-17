@@ -1,6 +1,6 @@
 # CREATI- Universal Creative Tool <br> 🥇 Winner- Crea Digital 2019 Transmedia Storytelling
 
-**CREATI** is an augmented reality application where
+**CREATI** is an Android augmented reality application where
 videos, audios, 3d models, and photos can merge
 into real life on amazing and customizable
 compositions. As a part of the **GUARDIANES**
@@ -23,13 +23,13 @@ has become a reliable tool for the company.
 <image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea1.png" height="256" width="455"><image/>
 * **02**  The app identifies the cards or cube face seen by the camera. To interact, you must press over the screen where the target is located.<br>
 <image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea2.png" height="256" width="455"><image/>
-* **03**  Musical challenge with traditional gastronomic content close to guitar hero.<br>
+* **03**  Change rotation, scale, and position guided by the axis attached to the content.<br>
 <image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea3.png" height="256" width="455" ><image/>
-* **04**  As videogames, touchscreen joysticks create an interaction friendly for kids <br>
+* **04**  As videogames, touchscreen joysticks create an interaction friendly for everyone <br>
 <image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea4.png" height="256" width="455"><image/>
 * **05**  This file searching function allows the user to explore file-by-file all the content they want to upload.<br>
 <image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea5.png" height="256" width="455"><image/>
-* **06**  3d models, images, and videos can create amazing compositions merging digital content in the real world.<br>
+* **06**  3d models, images, and videos can create amazing compositions merging digital content and the real world inside the app.<br>
 <image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea6.png" height="256" width="455"><image/>
 
 
